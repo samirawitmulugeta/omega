@@ -1,0 +1,2 @@
+# omega
+for AI cours
